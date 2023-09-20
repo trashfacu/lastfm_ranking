@@ -1,5 +1,4 @@
 [![Github Status][github-shield]][github-url]
-# Proyecto LastFM Leaderboards
 
 Esto es un bot de Discord que crea y muestra una tabla de puntuaciones basada en los scrobbles de los usuarios de LastFM en un servidor.
 
